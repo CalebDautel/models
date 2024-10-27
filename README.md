@@ -1,1 +1,1 @@
-Simple Axcelis Model, nothing groundbreaking, but good for practice 
+Simple stock models and notes, nothing groundbreaking, but good for practice 
