@@ -1,0 +1,1 @@
+This repository contains various Python scripts for web scraping, financial modeling, and data analysis. The projects focus on extracting, processing, and analyzing financial data, leveraging automation and machine learning techniques.
